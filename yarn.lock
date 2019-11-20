@@ -8379,6 +8379,11 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-animated-weather@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/react-animated-weather/-/react-animated-weather-3.0.0.tgz#b4df82eaa4d2cd4936c054f735ee0bf3a32279eb"
+  integrity sha512-IrbEhK/vHVDGzNTj8pHj+/FHacWiDAop8UhP78Z99gUVwh2CkJWhKT9hgBmk5/kSjUC3xqkX83mjkZwVW2z43g==
+
 react-app-polyfill@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/react-app-polyfill/-/react-app-polyfill-1.0.4.tgz#4dd2636846b585c2d842b1e44e1bc29044345874"
