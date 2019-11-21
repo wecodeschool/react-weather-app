@@ -7,6 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather defaultCity="New York" />
+
         <footer>
           This project was coded by{" "}
           <a href="https://www.delac.io/" target="_blank">
