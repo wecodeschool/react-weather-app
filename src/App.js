@@ -19,6 +19,13 @@ export default function App() {
             target="_blank"
           >
             open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://suspicious-beaver-111c4d.netlify.com/"
+            target="_blank"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
