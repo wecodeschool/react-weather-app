@@ -24,17 +24,13 @@
   line-height: 19px;
   list-style: none;
 }
-.Weather canvas {
-  margin-right: 10px;
-  margin-top: 5px;
-  display: inline-block;
-}
 
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
   font-size: 64px;
   line-height: 64px;
+  margin-left: 5px;
   font-weight: 400;
 }
 
