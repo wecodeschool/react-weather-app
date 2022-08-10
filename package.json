@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.21.1",
-    "bootstrap": "^4.3.1",
-    "react": "^16.12.0",
-    "react-animated-weather": "^3.0.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "axios": "^0.27.x",
+    "bootstrap": "^5.x",
+    "postcss-normalize": "^10.0.1",
+    "react": "^18.x",
+    "react-animated-weather": "^4.x",
+    "react-dom": "^18.x",
+    "react-scripts": "5.x"
   },
   "scripts": {
     "start": "react-scripts start",
