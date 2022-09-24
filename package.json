@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.27.x",
+    "axios": "^0.21.x",
     "bootstrap": "^5.x",
     "postcss-normalize": "^10.0.1",
     "react": "^18.x",
